@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Votre_API</string>
+    <string name="act_name1">Les Postes</string>
+    <string name="act_name2">Poste_By_TAG</string>
+    <string name="act_name3">Supprimer_Poste</string>
+    <string name="act_name4">Créer_Poste</string>
+
+</resources>
